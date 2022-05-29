@@ -85,10 +85,13 @@ Click connect to continue
 <img src="https://i.imgur.com/q3La6jL.png" height="80%" width="80%" alt="Image 14"/>
 
 
-Find your repository name and enter main for branch name and click next
+Find your repository name and enter main for branch name and click next.
 
 <img src="https://i.imgur.com/fzYxgTG.png" height="80%" width="80%" alt="Image 15"/>
 
+Skip build stage. The next stage is depoly stage, select Amazon S3, select the correct region, bucket and enter S3 object key
+
+<img src="https://i.imgur.com/2D0g4Tt.png" height="80%" width="80%" alt="Image 15"/>
 
 </p>
 

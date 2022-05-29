@@ -8,8 +8,9 @@ Jenkins is an open-source automation server that integrates with a number of AWS
 
 <h2>Services Used</h2>
 
-- <b>EC2</b>
-- <b>VPC</b> 
+- <b>S3</b>
+- <b>AWS CodePipeline</b> 
+- <b>AWS CodeStar</b> 
 
 <h2>Environments Used </h2>
 

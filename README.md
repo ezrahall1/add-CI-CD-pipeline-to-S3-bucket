@@ -15,7 +15,7 @@ Jenkins is an open-source automation server that integrates with a number of AWS
 <h2>Environments Used </h2>
 
 - <b>AWS</b>
-- <b>Putty</b>
+- <b>GitHub</b>
 
 <h2>Program walk-through:</h2>
 <H3>Step 1 - Create security group</H3>

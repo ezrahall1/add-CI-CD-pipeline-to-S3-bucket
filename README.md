@@ -70,7 +70,9 @@ For the source provider choose GitHub (Version 2) from the list of source provid
 Create a connection to GitHub in GitHub connections
 <img src="https://i.imgur.com/k0EIEYL.png" height="80%" width="80%" alt="Image 12"/>
 
+
 Click on Install a new app
+
 <img src="https://i.imgur.com/AGKDv4q.png" height="80%" width="80%" alt="Image 12"/>
 
 

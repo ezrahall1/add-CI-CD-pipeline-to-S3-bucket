@@ -1,4 +1,4 @@
-<h1>Add a CI/CD pipeline to an Amazon S3 bucket</h1>
+<h1>Add CI/CD pipeline to an Amazon S3 bucket</h1>
 
 <h2>Description</h2>
 This project will demonstrate how to host a dedicated Jenkins Server on Amazon EC2.

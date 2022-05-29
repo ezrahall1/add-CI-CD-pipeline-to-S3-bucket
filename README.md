@@ -98,10 +98,6 @@ If you see this section it means you have successfully created the pipeline and 
 
 <img src="https://i.imgur.com/LGc5Onm.png" height="80%" width="80%" alt="Image 17"/>
 
-In order to test the pipeline go to your repository in your Github account and make a change to the code. This change will be replicated to the s3 bucket.
-
-
-
 </p>
 
 

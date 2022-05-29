@@ -78,7 +78,7 @@ Click on Install a new app.
 
 Select which repository you would like to use and click save
 
-<img src="https://i.imgur.com/oDz8HR1.png" height="80%" width="80%" alt="Image 13/>
+<img src="https://i.imgur.com/AGKDv4q.png" height="80%" width="80%" alt="Image 13/>
 
 
 </p>

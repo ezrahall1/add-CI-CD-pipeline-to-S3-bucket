@@ -1,3 +1,5 @@
+To grant public read access for your website.
+
 {
     "Version": "2012-10-17",
     "Statement": [

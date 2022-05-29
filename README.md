@@ -71,12 +71,14 @@ Create a connection to GitHub in GitHub connections
 <img src="https://i.imgur.com/k0EIEYL.png" height="80%" width="80%" alt="Image 12"/>
 
 
-Click on Install a new app
+Click on Install a new app.
 
 <img src="https://i.imgur.com/AGKDv4q.png" height="80%" width="80%" alt="Image 12"/>
 
 
+Select which repository you would like to use and click save
 
+<img src="https://i.imgur.com/oDz8HR1.png" height="80%" width="80%" alt="Image 13/>
 
 
 </p>

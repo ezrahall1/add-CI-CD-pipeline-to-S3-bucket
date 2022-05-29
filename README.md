@@ -58,8 +58,7 @@ Based on the policy you have created you will now see a red banner stating, “p
 
 <img src="https://i.imgur.com/h4Twv3G.png" height="80%" width="80%" alt="Image 10"/>
 
-This shows that I successfully created a static website in AWS
-<img src="https://i.imgur.com/c8KFtkW.png" height="80%" width="80%" alt="Image 10"/>
+<H3>Step 3 – Create a pipeline</H3>
 
 </p>
 

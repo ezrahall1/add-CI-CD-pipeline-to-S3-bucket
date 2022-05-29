@@ -18,7 +18,7 @@ Jenkins is an open-source automation server that integrates with a number of AWS
 - <b>GitHub</b>
 
 <h2>Program walk-through:</h2>
-<H3>Step 1 - Creating S3 bucket</H3>
+<H3>Step 1 - Creating S3 bucket and upload content</H3>
 
 Once you have log into the AWS account you would need to click on services>S3>click on create bucket. Make sure the bucket name is unique or you would not be able to create the bucket successfully. 
 <img src="https://i.imgur.com/O3PUwO6.png" height="80%" width="80%" alt="Image 1"/>

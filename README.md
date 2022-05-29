@@ -59,6 +59,16 @@ Based on the policy you have created you will now see a red banner stating, “p
 <img src="https://i.imgur.com/h4Twv3G.png" height="80%" width="80%" alt="Image 10"/>
 
 <H3>Step 3 – Create a pipeline</H3>
+From there you would need to go to  AWS CodePipeline. Choose Create pipeline and enter a name for the project, select new service role and click next
+
+<img src="https://i.imgur.com/bBBnpE1.png" height="80%" width="80%" alt="Image 10"/>
+
+For the source provider choose GitHub (Version 2) from the list of source providers and connect to that GitHub. (Authorize GitHub to grant CodePipeline access to your GitHub repository)
+
+<img src="https://i.imgur.com/Md4RE1T.png" height="80%" width="80%" alt="Image 11"/>
+
+Create a connection to GitHub
+<img src="https://i.imgur.com/k0EIEYL.png" height="80%" width="80%" alt="Image 12"/>
 
 </p>
 

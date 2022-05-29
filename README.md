@@ -91,7 +91,16 @@ Find your repository name and enter main for branch name and click next.
 
 Skip build stage. The next stage is depoly stage, select Amazon S3, select the correct region, bucket and enter S3 object key
 
-<img src="https://i.imgur.com/2D0g4Tt.png" height="80%" width="80%" alt="Image 15"/>
+<img src="https://i.imgur.com/2D0g4Tt.png" height="80%" width="80%" alt="Image 16"/>
+
+Review your pipeline settings and click create pipeline.
+
+If you see this section it means you have successfully created the pipeline and now you just need to test it.
+
+<img src="https://i.imgur.com/LGc5Onm.png" height="80%" width="80%" alt="Image 17"/>
+
+
+
 
 </p>
 

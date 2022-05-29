@@ -56,7 +56,7 @@ The next step is you need to grant permissions to be able to read these objects.
 <img src="https://i.imgur.com/ZGf2dE6.png" height="80%" width="80%" alt="Image 9"/>
 Based on the policy you have created you will now see a red banner stating, “publicly accessible”, which means the bucket can be access by anyone.
 
-<img src="https://i.imgur.com/PGbBV1i.png" height="80%" width="80%" alt="Image 10"/>
+<img src="https://i.imgur.com/h4Twv3G.png" height="80%" width="80%" alt="Image 10"/>
 
 This shows that I successfully created a static website in AWS
 <img src="https://i.imgur.com/c8KFtkW.png" height="80%" width="80%" alt="Image 10"/>

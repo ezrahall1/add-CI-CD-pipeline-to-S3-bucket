@@ -56,7 +56,7 @@ Based on the policy you have created you will now see a red banner stating, “p
 
 <img src="https://i.imgur.com/h4Twv3G.png" height="80%" width="80%" alt="Image 10"/>
 
-<H3>Step 3 – Create a pipeline</H3>
+<H3>Step 4 – Create a pipeline</H3>
 From there you would need to go to  AWS CodePipeline. Choose Create pipeline and enter a name for the project, select new service role and click next
 
 <img src="https://i.imgur.com/bBBnpE1.png" height="80%" width="80%" alt="Image 10"/>

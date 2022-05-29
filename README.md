@@ -80,6 +80,15 @@ Select which repository you would like to use and click save
 
 <img src="https://i.imgur.com/oDz8HR1.png" height="80%" width="80%" alt="Image 13"/>
 
+Click connect to continue
+
+<img src="https://i.imgur.com/q3La6jL.png" height="80%" width="80%" alt="Image 14"/>
+
+
+Find your repository name and enter main for branch name and click next
+
+<img src="https://i.imgur.com/fzYxgTG.png" height="80%" width="80%" alt="Image 15"/>
+
 
 </p>
 

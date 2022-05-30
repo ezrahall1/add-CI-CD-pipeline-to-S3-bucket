@@ -9,6 +9,7 @@ This project will demonstrate how to add CI/CD pipeline to an Amazon S3 bucket
 
 - <b>S3</b>
 - <b>AWS CodePipeline</b> 
+- <b>AWS CodeStar</b> 
 
 <h2>Environments Used </h2>
 

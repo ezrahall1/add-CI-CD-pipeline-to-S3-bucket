@@ -16,6 +16,10 @@ This project will demonstrate how to add CI/CD pipeline to an Amazon S3 bucket
 - <b>AWS</b>
 - <b>GitHub</b>
 
+<h2>YouTube Demonstration </h2>
+
+[Add a CI/CD pipeline to an Amazon S3 - video walk-through guide](https://youtu.be/iwx2R9J5h_c)
+
 <h2>Program walk-through:</h2>
 <H3>Step 1 - Create S3 bucket and upload content</H3>
 

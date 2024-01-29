@@ -1,7 +1,7 @@
 <h1>Add CI/CD pipeline to an Amazon S3 bucket</h1>
 
 <h2>Description</h2>
-This project will demonstrate how to add CI/CD pipeline to an Amazon S3 bucket
+This project aims to illustrate the process of integrating a Continuous Integration/Continuous Deployment (CI/CD) pipeline with an Amazon S3 bucket. By implementing this pipeline, the workflow for deploying and updating content in the S3 bucket will be streamlined, enhancing efficiency and automation. The demonstration will cover the configuration steps required to set up the CI/CD pipeline, highlighting the integration points with the S3 bucket. This practical guide will provide insights into best practices for maintaining a seamless and automated deployment process within an Amazon Web Services (AWS) environment, contributing to a more agile and scalable development workflow.
 <br />
 
 
